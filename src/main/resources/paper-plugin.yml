@@ -1,0 +1,4 @@
+name: BungerShield
+version: '${version}'
+main: town.bunger.shield.BungerShield
+api-version: '1.20'
